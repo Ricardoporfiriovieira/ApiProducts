@@ -34,3 +34,7 @@ build/
 
 ### Firestore ConfigFiles ###
 /src/main/resources/application.properties
+
+
+###  application_default_credentials gcp ###
+application_default_credentials.json
